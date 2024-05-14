@@ -1,4 +1,4 @@
-# Hi there, I'm Sachin C S 👋
+# Hi there, I'm Sachin 👋
 
 ### Machine Learning Architect | Data Science Enthusiast | AI Innovator
 
