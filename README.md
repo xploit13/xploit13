@@ -1,8 +1,6 @@
-# Hi there, I'm Sachin 👋
+# Hi there, I'm Chakravarthy 👋
 
 ### Machine Learning Architect | Data Science Enthusiast | AI Innovator
-
-![LinkedIn](https://img.shields.io/badge/-Sachin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/%E0%B2%B8%E0%B2%9A%E0%B2%BF%E0%B2%A8%E0%B3%8D/)
 
 Welcome to my GitHub profile! I'm an accomplished Machine Learning Architect with a proven track record of developing and deploying impactful ML solutions across various sectors. With a robust skill set in Python, AWS, and multiple machine learning frameworks, I aim to drive business success through innovative AI and Data Science applications.
 
